@@ -1,6 +1,8 @@
 ## kmrbot通用配置
 
 配置需要将目录放在kmrbot的根目录下。
+> [!NOTE]
+> nonebot相关的配置仍然在.env.prod中，需要到kmrbot/bot_data/.env.prod中进行配置！
 
 ## 目录结构
 * common 用于一些bot的基本功能配置
