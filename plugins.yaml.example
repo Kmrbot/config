@@ -1,0 +1,11 @@
+# 插件管理
+# active只影响整体的开启与关闭 无论是否开启均会加载插件
+# 配置支持热更
+# private为私聊，group为群组，user为用户（只要是该用户，无论在哪里都触发）
+
+# GM命令
+plugins1:
+    active: true
+    white_list:
+    - {type: private, type_id: 123456, bot_id: [1, 2, 3]}
+    - {type: group, type_id: 123456, bot_id: [1, 2, 3]}

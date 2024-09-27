@@ -1,0 +1,18 @@
+{
+	"bili": {
+		"user": {
+			"cache_expire": 60
+		},
+		"dynamic": {
+			"pusher": {
+				"retry_max_count": 3
+			}
+		},
+		"live": {
+			"pusher": {
+				"judgement_by_user_info": true,
+				"judgement_by_room_message": true
+			}
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"cookies": [{
+		"notes": "Name1",
+		"uid": 114514,
+		"SESSDATA": "......",
+		"bili_jct": "......",
+		"buvid3": "......"
+	}, {
+		"notes": "Name2",
+		"uid": 1919810,
+		"SESSDATA": "......",
+		"bili_jct": "......",
+		"buvid3": "......"
+	}],
+	"dynamic_session": {
+		"SESSDATA": "......"
+	}
+}
+
